@@ -1,6 +1,6 @@
 import React from "react";
 import { useState } from "react";
-import Logo from '../../assets/img/logo.png'
+import Logo from '../../assets/img/Logo.png'
 import { IoPersonSharp } from "react-icons/io5";
 import {IoLockClosedSharp} from "react-icons/io5"
 import {FcGoogle} from "react-icons/fc"
